@@ -12,8 +12,8 @@ kolko kamenov mnisi prekladaju...
 
 Nas tim tvoria clenovia:
 
-1.Matej Čiernik
-2.
-3.
-4.
+1. Matej Čiernik
+2. Michal Mihálik
+3. Marcel Palaj
+4. Lenka
 
